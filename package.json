@@ -2,6 +2,9 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mantas Januska",
 	"description": "API learning made easy",
+	"keywords": ["API", "freecodecamp", "node.js"],
+	"license": "No license is added",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.18.2"
 	},
