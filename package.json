@@ -1,8 +1,9 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Mantas Januska",
+	"description": "API learning made easy",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.18.2"
 	},
 	"main": "server.js",
 	"scripts": {
